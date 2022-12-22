@@ -32,10 +32,9 @@ public class MusicPlayer {
 
     }
 
-//    public List<Music> playMusic() {
-////        for (int i = 0; i < musicList.size(); i++) {
-////            System.out.println("Playing: " + musicList.get(i).getSong());
-////        }
-//        return musicList;
-//    }
+    public void playMusic() {
+        for (Music music : musicList) {
+            System.out.println(music.getSong() + " " + music.getName() + " " + music.getVolume());
+        }
+    }
 }
