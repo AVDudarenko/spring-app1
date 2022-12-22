@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b19aaa52-6556-4ca7-bf15-7086b3bb07ec" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/springcourse/ClassicMusic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/springcourse/Music.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/springcourse/MusicPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/springcourse/PopMusic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/springcourse/RockMusic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/springcourse/TestBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/springcourse/TestBean.java" afterDir="false" />
+    <list default="true" id="b19aaa52-6556-4ca7-bf15-7086b3bb07ec" name="Changes" comment="implement IoC">
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/springcourse/TestSpring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/springcourse/TestSpring.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
     </list>
@@ -89,11 +80,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1671707253477</updated>
-      <workItem from="1671707254096" duration="2785000" />
+      <workItem from="1671707254096" duration="3068000" />
     </task>
+    <task id="LOCAL-00001" summary="implement IoC">
+      <created>1671711107491</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671711107491</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="implement IoC" />
+    <option name="LAST_COMMIT_MESSAGE" value="implement IoC" />
   </component>
 </project>
