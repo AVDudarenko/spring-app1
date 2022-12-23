@@ -6,6 +6,16 @@ public class PopMusic implements Music {
     private int volume;
 
     @Override
+    public void doInit() {
+        System.out.println("initialization pop music");
+    }
+
+    @Override
+    public void doDestroy() {
+        System.out.println("destroy pop music");
+    }
+
+    @Override
     public String getSong() {
         return "Inna Up";
     }

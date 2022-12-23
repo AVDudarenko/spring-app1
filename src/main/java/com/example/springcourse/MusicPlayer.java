@@ -34,7 +34,16 @@ public class MusicPlayer {
 
     public void playMusic() {
         for (Music music : musicList) {
-            System.out.println(music.getSong() + " " + music.getName() + " " + music.getVolume());
+            System.out.println(music);
         }
+    }
+
+    @Override
+    public String toString() {
+        return "MusicPlayer{" +
+                "musicList=" + musicList +
+                ", name='" + name + '\'' +
+                ", volume=" + volume +
+                '}';
     }
 }

@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b19aaa52-6556-4ca7-bf15-7086b3bb07ec" name="Changes" comment="add list of music in appContext.xml">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/springcourse/ClassicMusic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/springcourse/ClassicMusic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/springcourse/Music.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/springcourse/Music.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/springcourse/MusicPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/springcourse/MusicPlayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/springcourse/TestSpring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/springcourse/TestSpring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/springcourse/PopMusic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/springcourse/PopMusic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/springcourse/RockMusic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/springcourse/RockMusic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +85,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1671707253477</updated>
-      <workItem from="1671707254096" duration="7639000" />
+      <workItem from="1671707254096" duration="9006000" />
     </task>
     <task id="LOCAL-00001" summary="implement IoC">
       <created>1671711107491</created>
@@ -103,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671715775565</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add list of music in appContext.xml">
+      <created>1671716184043</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1671716184043</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

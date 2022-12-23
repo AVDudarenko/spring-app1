@@ -5,6 +5,16 @@ public class RockMusic implements Music {
     private int volume;
 
     @Override
+    public void doInit() {
+        System.out.println("initialization rock music");
+    }
+
+    @Override
+    public void doDestroy() {
+        System.out.println("destroy rock music");
+    }
+
+    @Override
     public String getSong() {
         return "Bohemian rhapsody";
     }

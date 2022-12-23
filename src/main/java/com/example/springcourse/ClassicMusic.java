@@ -5,6 +5,16 @@ public class ClassicMusic implements Music {
     private int volume;
 
     @Override
+    public void doInit() {
+        System.out.println("initialization classic music");
+    }
+
+    @Override
+    public void doDestroy() {
+        System.out.println("destroy classic music");
+    }
+
+    @Override
     public String getSong() {
         return "Sonata N5";
     }
