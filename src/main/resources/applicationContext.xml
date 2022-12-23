@@ -13,7 +13,8 @@
           class="com.example.springcourse.ClassicMusic"
           init-method="doInit"
           destroy-method="doDestroy"
-          factory-method="getClassicMusic">
+          factory-method="getClassicMusic"
+          scope="prototype">
         <property name="name" value="${musicPlayerClassic.name}"/>
         <property name="volume" value="${musicPlayerClassic.volume}"/>
     </bean>
