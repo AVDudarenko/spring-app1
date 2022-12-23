@@ -12,7 +12,8 @@
     <bean id="musicBeanClassic"
           class="com.example.springcourse.ClassicMusic"
           init-method="doInit"
-          destroy-method="doDestroy">
+          destroy-method="doDestroy"
+          factory-method="getClassicMusic">
         <property name="name" value="${musicPlayerClassic.name}"/>
         <property name="volume" value="${musicPlayerClassic.volume}"/>
     </bean>

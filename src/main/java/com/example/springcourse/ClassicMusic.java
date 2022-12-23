@@ -1,6 +1,14 @@
 package com.example.springcourse;
 
 public class ClassicMusic implements Music {
+
+    private ClassicMusic() {
+    }
+
+    public static ClassicMusic getClassicMusic() {
+        return new ClassicMusic();
+    }
+
     private String name;
     private int volume;
 
